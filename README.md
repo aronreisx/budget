@@ -31,11 +31,9 @@
   <a href="#-license">📝 License</a>
 </p>
 <br>
-
-
 <div align="center">
-  <img alt="Budget" src="https://github.com/aronreisx/budget/blob/master/.github/screen.png" width="100%">
-</div><br>
+  <img alt="Budget" src="https://github.com/aronreisx/budget/blob/master/.github/screen.png" width="75%">
+</div>
 
 ## 🚀 Technologies
 
