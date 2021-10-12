@@ -33,6 +33,10 @@
 <br>
 
 
+<div align="center">
+  <img alt="Budget" src="https://github.com/aronreisx/budget/blob/master/.github/screen.png" width="100%">
+</div><br>
+
 ## 🚀 Technologies
 
 This project was developed using the following technologies:
