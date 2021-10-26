@@ -86,7 +86,7 @@ $ npm start
 
 ## 📝 License
 
-This repository are under **MIT LICENSE**. For detailed informations, read the file [LICENSE](LICENSE.md). 
+This repository are under **MIT LICENSE**. For detailed informations, read the file [LICENSE](LICENSE). 
 
 ---
 <h4 align="center">Final Considerations</h4>
