@@ -3,7 +3,13 @@
     <h3>A minimalist web app to manage your finances 🤑</h3>
 </div>
 
-<p align="center">
+<div align="center">  
+  <img alt="TypeScript badge" src="https://img.shields.io/badge/TypeScript-006494?style=flat&logo=typescript&logoColor=white" />
+  <img alt="React badge" src="https://img.shields.io/badge/React-282c34?style=flat&logo=React&logoColor=61dafb" />
+  <img alt="Next.js badge" src="https://img.shields.io/badge/NextJS-black?style=flat&logo=nextdotjs&logoColor=white" />
+</div>
+
+<div align="center">
    <a href="https://www.linkedin.com/in/aronreis/">
       <img alt="Aron Reis" src="https://img.shields.io/badge/-AronReis-0A66C2?style=flat&logo=Linkedin&logoColor=white" />
    </a>
@@ -20,16 +26,14 @@
    <a href="https://github.com/aronreisx/budget/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/aronreisx/budget?style=social">
   </a>
-
-</p>
-
-
-<p align="center">
+</div>
+<br>
+<div align="center">
   <a href="#-technologies">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">📃 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-execute">💻 How to execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
-</p>
+</div>
 <br>
 <div align="center">
   <img alt="Budget" src="https://github.com/aronreisx/budget/blob/master/.github/screen.png" width="75%">
