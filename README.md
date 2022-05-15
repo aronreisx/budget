@@ -97,4 +97,9 @@ This repository are under **MIT LICENSE**. For detailed informations, read the f
 <p align="center">If you find any issue, please go to <a href="https://github.com/aronreisx/buget/issues">Issue section</a> and open a new issue describing what happened.</p>
 <p align="center">If you have anything to contribute with this project, you're free to make a <a href="https://github.com/aronreisx/buget/pulls">Pull resquest</a>. I'll be very Happy!</p>
 <br>
-<p align="center">Made with ♥ by <a href="https://www.linkedin.com/in/aronreis/">Aron Reis</a></p>
+<p align="center">Made by Aron Reis</p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/aronreis/">
+        <img src="https://github.com/aronreisx/budget/blob/master/.github/aronreis-logo.png" width="4%">
+    </a>
+</div>
